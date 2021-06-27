@@ -1,0 +1,32 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.9)
+    diff-lcs (1.4.4)
+    i18n (1.8.10)
+      concurrent-ruby (~> 1.0)
+    money (6.16.0)
+      i18n (>= 0.6.4, <= 2)
+    rspec (3.10.0)
+      rspec-core (~> 3.10.0)
+      rspec-expectations (~> 3.10.0)
+      rspec-mocks (~> 3.10.0)
+    rspec-core (3.10.1)
+      rspec-support (~> 3.10.0)
+    rspec-expectations (3.10.1)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.10.0)
+    rspec-mocks (3.10.2)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.10.0)
+    rspec-support (3.10.2)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  money
+  rspec
+
+BUNDLED WITH
+   2.2.3
