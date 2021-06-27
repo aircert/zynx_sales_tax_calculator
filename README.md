@@ -1,7 +1,7 @@
-"bundle install" - to install RSPEC
+`bundle install` - to install RSPEC
 
-"bundle exec rspec" - to run the test suite
+`bundle exec rspec` - to run the test suite
 
-lib folder contains the solution
+`lib` folder contains the solution
 
-spec contains the test cases
+`spec` contains the test cases
