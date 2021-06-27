@@ -2,4 +2,5 @@
 "bundle exec rspec" - to run the test suite
 
 lib folder contains the solution
-spec containts the test cases
+
+spec contains the test cases
